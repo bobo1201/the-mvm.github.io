@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Starting the adventure"
+title: "Starting the adventure Who will go there"
 date: 2021-03-24
 img: posts/20210324/starting_adventure.jpg
 tags: [general blogging, thoughts, life]
